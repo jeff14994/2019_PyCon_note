@@ -88,6 +88,7 @@
 ## 3. [How to Transform Research Oriented Code into Machine Learning APIs with Python Tetsuya Jesse Hirata] R0
 * Research oriented code 
 * APIs are composed of three elements
+* [Python Decorator](https://blog.techbridge.cc/2018/06/15/python-decorator-introduction/)
 ##
 ## 4. [Click Click Boom! Bombs Over Our Mind! KunYu Chen] R2
 * Goal: to join VirusTotal
