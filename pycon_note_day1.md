@@ -1,5 +1,5 @@
 ## Pycon -201920 -Day1
-## 1. [Keynote 林守德] R0 (我在R1 看直播)
+## 1. [Keynote Understanding Deep Neural Networks 林守德] R0 (我在R1 看直播)
 
 *  RNN -> recurrent neural network  
 	* output是下一個的input -> 連續性的資料 encode（記住前面的資訊）
