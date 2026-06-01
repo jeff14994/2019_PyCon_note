@@ -8,9 +8,15 @@
 
 This repository is a personal note archive from PyCon 2019. It contains Markdown notes from multiple conference days, covering talks on deep learning, robotics, statistics, sparse modeling, numerical software, probabilistic programming, neural network visualization, cybersecurity, automotive systems, and finance-related Python applications.
 
+## Markdown notes
+
+- [Day 1 notes — `pycon_note_day1.md`](./pycon_note_day1.md)
+- [Day 2 notes — `pycon_note_day2.md`](./pycon_note_day2.md)
+- [Day 3 notes — `pycon_note_day3.md`](./pycon_note_day3.md)
+
 ## Notes by day
 
-### Day 1 — `pycon_note_day1.md`
+### [Day 1 — `pycon_note_day1.md`](./pycon_note_day1.md)
 
 Day 1 focuses heavily on machine learning, robotics, APIs, security, and vehicle communication:
 
@@ -20,7 +26,7 @@ Day 1 focuses heavily on machine learning, robotics, APIs, security, and vehicle
 - **Zip bomb / VirusTotal / CVE topic** — notes on zip bombs, mitigation, creating zip bombs with Python `zipfile`, and references to Python bug reports and CVE-2019-9674.
 - **Py車達人** — notes on CANBus, two-wire vehicle communication, J1939/J1929-style protocol references, and socketCAN on BeagleBone.
 
-### Day 2 — `pycon_note_day2.md`
+### [Day 2 — `pycon_note_day2.md`](./pycon_note_day2.md)
 
 Day 2 covers programming languages, statistics, explainable AI, numerical software, probabilistic programming, and visualization:
 
@@ -31,7 +37,7 @@ Day 2 covers programming languages, statistics, explainable AI, numerical softwa
 - **Deep Probabilistic Programming with Pyro** — links to Pyro resources, slides, and probabilistic programming tutorials.
 - **Lucid neural network visualization** — notes on activation grids, UMAP projections, and TensorFlow Lucid for visualizing neural networks.
 
-### Day 3 — `pycon_note_day3.md`
+### [Day 3 — `pycon_note_day3.md`](./pycon_note_day3.md)
 
 Day 3 currently contains finance-focused keynote notes and a placeholder for another talk:
 
@@ -50,7 +56,7 @@ Across the notes, several themes appear repeatedly:
 
 ## Suggested future improvements
 
-- Fix date/title inconsistencies in the note headings, such as Day 3 being labeled as Day 2 in `pycon_note_day3.md`.
+- Fix date/title inconsistencies in the note headings, such as Day 3 being labeled as Day 2 in [`pycon_note_day3.md`](./pycon_note_day3.md).
 - Add missing details for incomplete sections, especially the foreign-exchange crawler talk.
 - Normalize speaker names, room labels, and talk titles across all note files.
 - Add links to official PyCon pages, slides, or video recordings where available.
