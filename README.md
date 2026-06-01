@@ -53,11 +53,3 @@ Across the notes, several themes appear repeatedly:
 3. **Hands-on systems and hardware** — Donkey Car, CANBus, Raspberry Pi, BeagleBone, and socketCAN show Python being used outside pure software environments.
 4. **Security awareness** — the zip bomb and CVE notes connect Python tooling with vulnerability research and defensive thinking.
 5. **Applied data science** — statistics, hypothesis testing, probabilistic programming, compressed sensing, finance, and neural network visualization all show Python's role in practical data analysis.
-
-## Suggested future improvements
-
-- Fix date/title inconsistencies in the note headings, such as Day 3 being labeled as Day 2 in [`pycon_note_day3.md`](./pycon_note_day3.md).
-- Add missing details for incomplete sections, especially the foreign-exchange crawler talk.
-- Normalize speaker names, room labels, and talk titles across all note files.
-- Add links to official PyCon pages, slides, or video recordings where available.
-- Move each talk into a consistent structure: title, speaker, room, key ideas, resources, and personal takeaway.
